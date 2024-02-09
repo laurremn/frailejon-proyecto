@@ -4,3 +4,9 @@
 .fondomenu2{
     background-color: cadetblue;
 }
+.letra{
+  font-family: "Shantell Sans", cursive;
+  font-optical-sizing: auto;
+  font-size: 16px;
+  color: darkslategrey;
+}
